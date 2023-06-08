@@ -1,0 +1,10 @@
+ru\nspk\trm\avro\generator\AvroSchemeGeneratorApplication.class
+ru\nspk\trm\common\algorithm\model\avro\MerchantConfig.class
+ru\nspk\trm\common\algorithm\model\avro\MatchingResult.class
+ru\nspk\trm\common\trm\model\avro\ReqRecord.class
+ru\nspk\trm\common\algorithm\model\avro\BaseMatchingTask.class
+ru\nspk\trm\common\trm\model\avro\OfdRecord.class
+ru\nspk\trm\common\algorithm\model\avro\Pair.class
+ru\nspk\trm\common\algorithm\model\avro\BaseMatchingRecord.class
+ru\nspk\trm\common\trm\model\avro\RespRecord.class
+ru\nspk\trm\common\trm\model\avro\BankRequest.class
